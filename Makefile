@@ -8,8 +8,12 @@ TEST_ROOT=tests
 help:
 	@echo "make env"
 	@echo "make install"
+	@echo ""
 	@echo "make lint"
 	@echo "make format"
+	@echo ""
+	@echo "make run"
+	@echo ""
 	@echo "make test"
 
 env:
