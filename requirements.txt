@@ -1,0 +1,9 @@
+# dependencies
+
+# build
+pylint
+flake8
+# black
+
+# test
+pytest
