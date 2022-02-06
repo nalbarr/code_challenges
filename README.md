@@ -1,3 +1,3 @@
-# code_challenges
+# code_challenges_python
 
-code_challenges
+code_challenges_python
